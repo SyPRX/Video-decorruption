@@ -1,14 +1,1 @@
-
-*/
-
-!input/
-input/*
-
-!output/
-output/*
-!output/frames/
-output/frames/*
-
-!saved/
-saved/*
-
+/*
