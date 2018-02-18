@@ -24,15 +24,12 @@ The result videos will be in the 'output' folder
 
 ### Example
 
-```
 <div style="text-align:center" markdown="1">
 
 ![alt text](https://github.com/SyPRX/Video-decorruption/blob/master/images/corrupt_data.gif)
 ![alt text](https://github.com/SyPRX/Video-decorruption/blob/master/images/decorrupt_data.gif)
 
 </div>
-
-```
 
 ## Usage
 
