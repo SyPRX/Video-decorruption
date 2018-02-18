@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00ac4fa2-7d2f-4ccf-9e4a-63110ddc079b" name="Default" comment="" />
+    <list default="true" id="00ac4fa2-7d2f-4ccf-9e4a-63110ddc079b" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,11 +16,10 @@
       <file leaf-file-name="decorruption.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/decorruption/decorruption.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="414">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+            <state relative-caret-position="554">
+              <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="48" />
               <folding>
                 <element signature="e#17#26#0" expanded="true" />
-                <element signature="e#536#1595#0" expanded="false" />
                 <element signature="e#1637#5113#0" expanded="false" />
                 <element signature="e#1934#2991#0" expanded="false" />
                 <element signature="e#3403#3951#0" expanded="false" />
@@ -191,7 +192,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="5" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -214,11 +215,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/decorruption/decorruption.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state relative-caret-position="554">
+          <caret line="31" column="48" lean-forward="false" selection-start-line="31" selection-start-column="36" selection-end-line="31" selection-end-column="48" />
           <folding>
             <element signature="e#17#26#0" expanded="true" />
-            <element signature="e#536#1595#0" expanded="false" />
             <element signature="e#1637#5113#0" expanded="false" />
             <element signature="e#1934#2991#0" expanded="false" />
             <element signature="e#3403#3951#0" expanded="false" />
